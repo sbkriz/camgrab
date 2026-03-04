@@ -13,7 +13,7 @@
 [![Issues](https://img.shields.io/github/issues/justinhuangcode/camgrab?style=flat-square)](https://github.com/justinhuangcode/camgrab/issues)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square)](https://github.com/justinhuangcode/camgrab)
 
-A modern CLI tool for capturing snapshots, recording clips, detecting motion, and managing IP cameras via RTSP/ONVIF.
+A fast, single-binary IP camera CLI for snapshots, recording, and motion detection. 📷
 
 ## Why CamGrab?
 

@@ -13,7 +13,7 @@
 [![Issues](https://img.shields.io/github/issues/justinhuangcode/camgrab?style=flat-square)](https://github.com/justinhuangcode/camgrab/issues)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square)](https://github.com/justinhuangcode/camgrab)
 
-一款现代化的命令行工具，用于抓拍快照、录制视频片段、运动检测及通过 RTSP/ONVIF 管理 IP 摄像头。
+高速单二进制 IP 摄像头命令行工具，支持抓拍、录制与运动检测。 📷
 
 ## 为什么选择 CamGrab？
 
